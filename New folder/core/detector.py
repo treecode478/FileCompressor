@@ -27,3 +27,4 @@ def categorize(mime: str) -> str:
     ): 
         return "word"
     return "unknown"
+
